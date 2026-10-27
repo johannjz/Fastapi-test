@@ -7,3 +7,4 @@ venv/
 !.env.example
 .vscode/
 .pytest_cache/
+static/images/oko.jpg
